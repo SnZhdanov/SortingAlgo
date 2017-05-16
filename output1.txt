@@ -1,0 +1,250 @@
+>>>Testing Bubble Sort<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:3924
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:1207
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:1207
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 29 | 64 | 71 | 75 | 89
+
+Nanoseconds:1207
+>>>Testing Selection Sort<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:6641
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:906
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:905
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 29 | 64 | 71 | 75 | 89
+
+Nanoseconds:1208
+>>>Testing Insertion Sort<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:4830
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:603
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:604
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 29 | 64 | 71 | 75 | 89
+
+Nanoseconds:905
+>>>Testing Quick Sort Recursive Right-Most<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:8150
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:1811
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:1510
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 29 | 64 | 71 | 75 | 89
+
+Nanoseconds:1811
+>>>Testing Quick Sort Median of Three<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:8452
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:1509
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:1208
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 29 | 64 | 71 | 75 | 89
+
+Nanoseconds:1510
+>>>Testing Quick Sort Non-Recursive<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:7245
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:2113
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:2113
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 29 | 64 | 71 | 75 | 89
+
+Nanoseconds:2113
+>>>Testing Merge Recursive<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:7848
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:2415
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:2113
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 29 | 64 | 71 | 75 | 89
+
+Nanoseconds:2415
+>>>Testing Merge Recursive<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:2113
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:2415
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:2415
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 29 | 64 | 71 | 75 | 89
+
+Nanoseconds:14187
+>>>Testing Merge Non-Recursive version<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:10565
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 1 | 2 | 3 | 4 | 5
+
+Nanoseconds:3622
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:3320
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 29 | 64 | 71 | 75 | 89
+
+Nanoseconds:3320
+>>>Testing Heapsort<<<
+ Descending: 
+ 5 | 4 | 3 | 2 | 1
+
+ 5 | 3 | 4 | 2 | 1
+
+Nanoseconds:7547
+ Ascending: 
+ 1 | 2 | 3 | 4 | 5
+
+ 5 | 3 | 4 | 1 | 2
+
+Nanoseconds:2717
+ Same: 
+ 1 | 1 | 1 | 1 | 1
+
+ 1 | 1 | 1 | 1 | 1
+
+Nanoseconds:1812
+ Random: 
+ 75 | 71 | 64 | 29 | 89
+
+ 89 | 64 | 75 | 29 | 71
+
+Nanoseconds:2717

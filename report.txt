@@ -1,0 +1,23 @@
+The sorts are ordered from longest time to shortest time
+
+Bubble Sort: Descending > Ascending > Random > Same
+
+Selection Sort: Descending >  Random >  Ascending > Same
+
+Insertion Sort:  Descending >  Random > Same > Ascending 
+
+Quick Sort (Recursive Right): Descending > Same > Ascending > Random
+
+Quick Sort(Median of 3):  Descending > Same > Ascending > Random
+
+Quick Sort(Non-Recursive):  Descending > Same > Ascending > Random
+
+Merge (Recursive): Descending > Ascending > Random > Same
+
+Merge2 (Recursive): Ascending > Descending > Random > Same
+
+Merge (Non-Recursive): Descending > Random > Ascending > S-ame
+
+HeapSort: Descending > Random > Ascending > Same
+
+(for some reason, I couldn't get my heapsort wouldn't work)
